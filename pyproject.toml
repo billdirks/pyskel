@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyskel"
-version = "0.1.0"
+version = "0.1.1"
 description = "My first look at pygame"
 authors = ["Bill Dirks <bill.dirks@gmail.com>"]
 readme = "README.md"
