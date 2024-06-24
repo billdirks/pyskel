@@ -7,15 +7,15 @@ An intro project to play with pygame and python packaging.
 If you have `pipx` installed (`pip install pipx`):
 
 ```
-pipx run pyskel
+pipx run bdskeletor
 ```
 
 Via `pip`:
 
 ```
 # To install
-pip install pyskel
+pip install bdskeletor
 
 # To run
-python -m pyskel
+python -m bdskeletor
 ```

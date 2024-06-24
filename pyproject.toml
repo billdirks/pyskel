@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "pyskel"
-version = "0.1.1"
+name = "bdskeletor"
+version = "0.1.0"
 description = "My first look at pygame"
 authors = ["Bill Dirks <bill.dirks@gmail.com>"]
 readme = "README.md"
 license = "GPL-3.0-only"
-repository = "https://github.com/billdirks/pyskel"
+repository = "https://github.com/billdirks/skeletor"
 keywords = ["pygame"]
 classifiers = [ "Topic :: Games/Entertainment" ]
 
@@ -21,7 +21,7 @@ mypy = "^1.10.0"
 
 
 [tool.poetry.scripts]
-pyskel = "pyskel.skeletor:main"
+bdskeletor = "bdskeletor.skeletor:main"
 
 
 [build-system]

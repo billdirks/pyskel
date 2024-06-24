@@ -2,4 +2,4 @@ poetry build
 twine upload --verbose -r testpypi dist/*
 
 # To run from testpypi
-pipx run --pip-args="--extra-index-url=https://test.pypi.org/simple" pyskel 
+pipx run --pip-args="--extra-index-url=https://test.pypi.org/simple" bdskeletor
